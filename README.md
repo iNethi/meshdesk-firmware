@@ -3,6 +3,7 @@ Firmware for Meshdesk
 
 ## Instructions for Ubiquity device
 
+Thanks for the idea from [Christopher Smart](https://blog.christophersmart.com/2021/10/02/flashing-openwrt-onto-ubiquiti-unifi-ap-ac/)
 
 ### GRAB all the firmware
 
